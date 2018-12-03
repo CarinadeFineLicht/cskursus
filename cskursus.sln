@@ -20,6 +20,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave_enum", "ConsoleApp2Opgave_enum\Opgave_enum.csproj", "{60FE414B-215F-440B-ADEA-AC44B5268365}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave_fejllog_simpel", "Opgave_fejllog_simpel\Opgave_fejllog_simpel.csproj", "{9D6B5AB9-604B-46C8-9088-B7EECEF6A7BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{60FE414B-215F-440B-ADEA-AC44B5268365}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60FE414B-215F-440B-ADEA-AC44B5268365}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60FE414B-215F-440B-ADEA-AC44B5268365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D6B5AB9-604B-46C8-9088-B7EECEF6A7BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D6B5AB9-604B-46C8-9088-B7EECEF6A7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D6B5AB9-604B-46C8-9088-B7EECEF6A7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D6B5AB9-604B-46C8-9088-B7EECEF6A7BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
