@@ -41,10 +41,10 @@ namespace Opgave_automatisk_egenskab
         {
         }   
 
-        // Automatisk egenskab
+        // Automatisk egenskab "prop" + tab tab
         public string Fornavn { get; set; }
 
-        // Full egenskab
+        // Full egenskab "fullprop" + tab tab
         private String efternavn;
         public String Efternavn
         {

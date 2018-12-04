@@ -30,6 +30,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave_simpel_egenskab", "O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave_automatisk_egenskab", "Opgave_automatisk_egenskab\Opgave_automatisk_egenskab.csproj", "{A9AB69D9-B328-417A-B7A4-D57CC8B0AAF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave_samlinger_simpel", "Opgave_samlinger-simpel\Opgave_samlinger_simpel.csproj", "{E522581F-B560-4DF2-887E-EA55F0A0F33D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave_samlinger_stack", "Opgave_samlinger_stack\Opgave_samlinger_stack.csproj", "{DF26E4CC-F609-4F07-A84F-E72C81FA04BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +84,14 @@ Global
 		{A9AB69D9-B328-417A-B7A4-D57CC8B0AAF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9AB69D9-B328-417A-B7A4-D57CC8B0AAF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9AB69D9-B328-417A-B7A4-D57CC8B0AAF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E522581F-B560-4DF2-887E-EA55F0A0F33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E522581F-B560-4DF2-887E-EA55F0A0F33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E522581F-B560-4DF2-887E-EA55F0A0F33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E522581F-B560-4DF2-887E-EA55F0A0F33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF26E4CC-F609-4F07-A84F-E72C81FA04BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF26E4CC-F609-4F07-A84F-E72C81FA04BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF26E4CC-F609-4F07-A84F-E72C81FA04BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF26E4CC-F609-4F07-A84F-E72C81FA04BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
